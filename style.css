@@ -1,3 +1,6 @@
+.states {
+  fill: white;
+}
 
 .states :hover {
   stroke: black;
